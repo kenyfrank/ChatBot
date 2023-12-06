@@ -4,21 +4,21 @@ This repository contains the code for a chatbot powered by UNH student as a fina
 
 **Table of Contents**
 
-Introduction
+- Introduction
 
-Features
+- Features
 
-Usage
+- Usage
 
-Model Fine-Tuning
+- Model Fine-Tuning
 
-Test Dataset
+- Test Dataset
 
-Evaluation Metrics
+- Evaluation Metrics
 
-Results
+- Results
 
-Contributing
+- Contributing
 
 **Introduction**
 
