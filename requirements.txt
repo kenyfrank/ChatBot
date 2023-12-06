@@ -1,0 +1,10 @@
+pandas
+torch
+transformers
+pyarrow
+fastparquet
+matplotlib
+seaborn
+nltk
+numpy
+pickle
