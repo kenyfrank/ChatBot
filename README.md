@@ -1,9 +1,7 @@
-**Overview**
-
-This repository contains the code for a chatbot powered by UNH student as a final project for the Fall semester, 2023. The chatbot is fine-tuned for improved conversational experiences and utilizes a sophisticated memory storage and retrieval system. The README provides an overview of the project, instructions for usage, and additional information.
-
 **Table of Contents**
 
+- Overview
+  
 - Introduction
 
 - Features
@@ -19,6 +17,10 @@ This repository contains the code for a chatbot powered by UNH student as a fina
 - Results
 
 - Contributing
+  
+**Overview**
+
+This repository contains the code for a chatbot powered by UNH student as a final project for the Fall semester, 2023. The chatbot is fine-tuned for improved conversational experiences and utilizes a sophisticated memory storage and retrieval system. The README provides an overview of the project, instructions for usage, and additional information.
 
 **Introduction**
 
