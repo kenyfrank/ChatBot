@@ -1,6 +1,8 @@
-**Table of Contents**
+**Overview**
 
-- Overview
+This repository contains the code for a chatbot powered by UNH student as a final project for the Fall semester, 2023. The chatbot is fine-tuned for improved conversational experiences and utilizes a sophisticated memory storage and retrieval system. The README provides an overview of the project, instructions for usage, and additional information.
+
+**Table of Contents**
   
 - Introduction
 
@@ -18,10 +20,6 @@
 
 - Contributing
   
-**Overview**
-
-This repository contains the code for a chatbot powered by UNH student as a final project for the Fall semester, 2023. The chatbot is fine-tuned for improved conversational experiences and utilizes a sophisticated memory storage and retrieval system. The README provides an overview of the project, instructions for usage, and additional information.
-
 **Introduction**
 
 Many conversational chatbots struggle with context awareness and personalization, leading to generic responses. This project aims to enhance the chatbot experience by implementing an advanced memory storage and retrieval system within the GPT-2 architecture. The result is a more dynamic and engaging conversational AI.
