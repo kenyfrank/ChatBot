@@ -22,11 +22,11 @@ This repository contains the code for a chatbot powered by UNH student as a fina
   
 **Introduction**
 
-Many conversational chatbots struggle with context awareness and personalization, leading to generic responses. This project aims to enhance the chatbot experience by implementing an advanced memory storage and retrieval system within the GPT-2 architecture. The result is a more dynamic and engaging conversational AI.
+Many conversational chatbots struggle with context awareness and personalization, leading to generic responses. This project aims to enhance the chatbot experience by utilizing the GPT-2 architecture. The result is a more dynamic and engaging conversational AI.
 
 **Features**
 
-GPT-2-based chatbot with advanced memory storage.
+GPT-2-based finetune chatbot model for improve conversation.
 Fine-tuned model for improved conversational responses.
 Evaluation metrics include BLEU score and accuracy.
 User-friendly interface for generating responses.
@@ -56,7 +56,7 @@ The test_intent_data.json file contains a sample test dataset with intents, patt
 
 **Evaluation Metrics**
 
-The chatbot's performance is evaluated using BLEU score and accuracy. BLEU score measures the similarity between generated and reference responses, while accuracy checks for correct responses against the reference.
+The chatbot's performance is evaluated using Perplexity BLEU score. BLEU score measures the similarity between generated and reference responses, while perplexity score, is a metric to measure how well a probability model predicts a sample.
 
 **Results**
 
